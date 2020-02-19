@@ -1,0 +1,51 @@
+actividades:
+- mes: ABR 
+  dia: 8
+  nombre: Inauguración de la Feria del Empleo 2019
+  abstract: Con la presencia del Director de la Facultad
+  hora: 12:00 - 12:15 
+  lugar: Edificio principal de la Facultad de Ingeniería
+  recinto: Vestibulo del Auditorio Javier Barros Sierra
+
+- mes: ABR 
+  dia: 8
+  nombre: Reclutamiento GENERAL MOTORS
+  hora: 12:15 – 14:00 
+  lugar: a
+  recinto: Auditorio Javier Barros Sierra
+
+- mes: ABR 
+  dia: 8
+  nombre: Reclutamiento PROCTER & GAMBLE
+  hora: 14:00 – 16:00
+  lugar: a
+  recinto: Auditorio Javier Barros Sierra
+
+- mes: ABR 
+  dia: 8
+  nombre: Reclutamiento SACYR
+  hora: 16:00 – 18:00
+  lugar: a
+  recinto: Auditorio Javier Barros Sierra
+
+actividades2:
+- mes: ABR 
+  dia: 9
+  nombre: Reclutamiento HONEYWELL
+  hora: 12:00 – 14:00
+  lugar: a
+  recinto: Auditorio Javier Barros Sierra
+ 
+- mes: ABR 
+  dia: 9
+  nombre: Reclutamiento ICA FLUOR
+  hora: 14:00 – 16:00
+  lugar: a
+  recinto: Auditorio Javier Barros Sierra
+
+- mes: ABR 
+  dia: 9
+  nombre: Reclutamiento ZTE
+  hora: 16:00 – 18:00
+  lugar: a
+  recinto: Auditorio Javier Barros Sierra
