@@ -37,7 +37,7 @@ companies:
 #  height1: 40px
 #  height: 80px
 
-- siteurl: https://www.audi.com/corporate/en/careers.html
+- siteurl: http://www.audi.com.mx/carreras
   logourl: images/companies/audi.png
   name: Audi
   carreras: TODAS LAS CARRERAS
