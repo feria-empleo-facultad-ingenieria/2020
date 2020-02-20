@@ -104,13 +104,23 @@ layout: default_feria
 					{% assign isFirst = true %}
 					{% for company in site.data.companies.companies %}
 						{% if isFirst == true %}
-							<div class="carousel-item active" style="height:90px">
-								<img alt="" src="{{ company.logourl }}" height="{{ company.height }}" alt="...">
+							<div class="carousel-item active" style="height:180px;">
+								<img src="{{ company.logourl }}" height="{{ company.height }}" alt="{{ company.name }}">
+								<div class="carousel-caption card-body" style="color:black;vertical-align:bottom;">
+									<a href="{{ company.siteurl }}" target="_blank" >
+										<h5 class="btn btn-outline-info">{{ company.name }}</h5>
+									</a>
+								</div>
 							</div>
 							{% assign isFirst = false %}
 						{% else %}
-							<div class="carousel-item" style="height:90px">
-								<img alt="" src="{{ company.logourl }}" style="vertical-align:middle;" height="{{ company.height }}" alt="...">
+							<div class="carousel-item" style="height:180px;">
+								<img src="{{ company.logourl }}" style="vertical-align:middle;" height="{{ company.height }}" alt="{{ company.name }}">
+								<div class="carousel-caption card-body" style="color:black;vertical-align:bottom;">
+									<a href="{{ company.siteurl }}" target="_blank" >
+										<h5 class="btn btn-outline-info">{{ company.name }}</h5>
+									</a>
+								</div>
 							</div>
 						{% endif %}
 					{% endfor %}

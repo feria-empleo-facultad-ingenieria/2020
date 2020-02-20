@@ -65,16 +65,16 @@ companies:
   height: 80px
   column: 1
 
-- siteurl: http://www.dhl.com.mx/es/carreras.html
-  logourl: images/companies/dhl.svg
-  name: DHL
-  carreras: TODAS LAS CARRERAS
-  teaser: Las oportunidades de carreras en Deutsche Post DHL Group son tan diversas como la cantidad de equipos que tenemos en todo el mundo.
-  abstract: Las oportunidades de carreras en Deutsche Post DHL Group son tan diversas como la cantidad de equipos que tenemos en todo el mundo. Conectamos a las personas y mejoramos sus vidas, ya que tenemos más de 550 000 empleados en más de 220 países y territorios.
-  stand: S/A
-  height1: 30px
-  height: 80px
-  column: 1
+#- siteurl: http://www.dhl.com.mx/es/carreras.html
+#  logourl: images/companies/dhl.svg
+#  name: DHL
+#  carreras: TODAS LAS CARRERAS
+#  teaser: Las oportunidades de carreras en Deutsche Post DHL Group son tan diversas como la cantidad de equipos que tenemos en todo el mundo.
+#  abstract: Las oportunidades de carreras en Deutsche Post DHL Group son tan diversas como la cantidad de equipos que tenemos en todo el mundo. Conectamos a las personas y mejoramos sus vidas, ya que tenemos más de 550 000 empleados en más de 220 países y territorios.
+#  stand: S/A
+#  height1: 30px
+#  height: 80px
+#  column: 1
 
 - siteurl: https://www.emerson.com/es-mx/careers
   logourl: images/companies/emerson.png
@@ -173,7 +173,7 @@ companies:
   stand: S/A
   height1: 25px
   height: 80px
-  column: 2
+  column: 1
  
 - siteurl: https://www.netcracker.com/careers/
   logourl: images/companies/netcracker.png
