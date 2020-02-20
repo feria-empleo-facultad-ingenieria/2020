@@ -46,7 +46,8 @@ layout: default_feria
                         </tr>
                       </thead>
                       <tbody>
-                        {% for company in site.data.companies.companies1 %}
+                        {% for company in site.data.companies.companies %}
+                        {% if company.column == 1 %}
                         <tr class="btn-reveal-trigger"></tr>
                           <td class="align-middle text-center">
                             <a href="{{ company.siteurl }}">
@@ -59,6 +60,7 @@ layout: default_feria
                             </div>
                           </td>
                         </tr>
+                        {% endif %}
                         {% endfor %}
                       </tbody>
                   </table>
@@ -72,7 +74,8 @@ layout: default_feria
                       </tr>
                     </thead>
                     <tbody>
-                      {% for company in site.data.companies.companies2 %}
+                      {% for company in site.data.companies.companies %}
+                      {% if company.column == 2 %}
                       <tr class="btn-reveal-trigger"></tr>
                         <td class="align-middle text-center">
                           <a href="{{ company.siteurl }}">
@@ -85,6 +88,7 @@ layout: default_feria
                           </div>
                         </td>
                       </tr>
+                      {% endif %}
                       {% endfor %}
                     </tbody>
                   </table>
