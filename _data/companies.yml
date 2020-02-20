@@ -120,6 +120,28 @@ companies:
   height: 80px
   column: 1
 
+- siteurl: http://career.huawei.com/reccampportal/#campus4/content.html
+  logourl: images/companies/huawei.png
+  name: Huawei
+  carreras: TODAS LAS CARRERAS
+  teaser: Heroes may come from anywhere. Everyone who makes a contribution should be rewarded
+  abstract: Heroes may come from anywhere. Everyone who makes a contribution should be rewarded. Come and experience customer centricity and inspiring dedication, and build a Better Connected World with us
+  stand: S/A
+  height1: 20px
+  height: 80px
+  column: 1
+
+- siteurl: https://www.ica.com.mx/ica-fluor
+  logourl: images/companies/icafluor.jpg
+  name: Ica Fluor
+  carreras: TODAS LAS CARRERAS
+  teaser: ICA-Fluor Daniel, S. de R.L. de C.V. (ICA Fluor) es una empresa conjunta formada por el grupo mexicano de construcción e ingeniería ICA
+  abstract: ICA-Fluor Daniel, S. de R.L. de C.V. (ICA Fluor) es una empresa conjunta formada por el grupo mexicano de construcción e ingeniería ICA y la firma estadounidense de ingeniería, procura, construcción y mantenimiento Fluor Corp. Sus áreas de operación incluyen vías terrestres, puertos y obras marítimas, aeropuertos, agua, energía, obras subterráneas, transporte masivo, edificación social, industria, petróleo y gas, minería, desarrollo inmobiliario y prefabricación. 
+  stand: S/A
+  height1: 40px
+  height: 80px
+  column: 1
+
 - siteurl: https://www.keyence.com.mx/
   logourl: images/companies/keyence.jpg
   name: KEYENCE
@@ -128,6 +150,17 @@ companies:
   abstract: KEYENCE ha crecido de forma constante desde el año 1974 para convertirse en un líder innovador en el desarrollo y fabricación de equipos de automatización industrial e inspección, a nivel mundial. Nuestros productos consisten en lectores de códigos, marcadores láser, sistemas de visión artificial, sistemas de medición, microscopios, sensores y eliminadores de estática.
   stand: S/A
   height1: 25px
+  height: 80px
+  column: 1
+
+- siteurl: https://kionetworks.com
+  logourl: images/companies/kio2.png
+  name: kionetworks
+  carreras: TODAS LAS CARRERAS
+  teaser: Somos una empresa fundada en 2002, con capital 100% mexicano. Ofrecemos un amplio portafolio de infraestructuras 
+  abstract: Somos una empresa fundada en 2002, con capital 100% mexicano. Ofrecemos un amplio portafolio de infraestructuras y servicios de tecnologías de información de misión crítica, dentro de los más altos niveles de calidad y procesos internacionales. Contamos con 38 Centros de Datos de alta densidad y disponibilidad, los más modernos y robustos de la región, distribuidos en México, Centroamérica, El Caribe y Europa.
+  stand: S/A
+  height1: 40px
   height: 80px
   column: 1
 
@@ -140,7 +173,7 @@ companies:
   stand: S/A
   height1: 25px
   height: 80px
-  column: 1
+  column: 2
  
 - siteurl: https://www.netcracker.com/careers/
   logourl: images/companies/netcracker.png
@@ -151,7 +184,7 @@ companies:
   stand: S/A
   height1: 25px
   height: 80px
-  column: 1
+  column: 2
 
 - siteurl: https://www.omnitracs.com/company/careers
   logourl: images/companies/omnitracs.svg
@@ -248,7 +281,7 @@ companies:
   teaser: Techint Ingeniería y Construcción lo invita a participar de una compañía 
   abstract: Techint Ingeniería y Construcción lo invita a participar de una compañía en donde cada proyecto es una oportunidad única para crecer y adquirir nuevas experiencias.
   stand: S/A
-  height1: 25px
+  height1: 20px
   height: 50px
   column: 2
 
@@ -270,16 +303,16 @@ companies:
   teaser: ¿Qué vas a encontrar cuando te unas a la mayor cadena minorista del mundo?
   abstract: Amamos lo que hacemos. ¿Qué vas a encontrar cuando te unas a la mayor cadena minorista del mundo? La oportunidad de impactar en la comunidad que vives y en la que trabajas, innovar para la próxima generación de clientes y construir una carrera haciendo lo que amas.
   stand: S/A
-  height1: 40px
+  height1: 20px
   height: 80px
   column: 2
  
 - siteurl: http://www.xideral.co/positions
-  logourl: images/companies/xideral.png
+  logourl: images/companies/xideral.jpg
   name: Xideral
   carreras: TODAS LAS CARRERAS
-  teaser: Aseguramos al mejor talento de la industria en Latinoamérica
-  abstract: Aseguramos al mejor talento de la industria en Latinoamérica
+  teaser: En XIDERAL nos hemos dedicado y especializado en brindar soluciones en base a las necesidades y alcance esperado de cada uno de nuestros clientes.
+  abstract: En XIDERAL nos hemos dedicado y especializado en brindar soluciones en base a las necesidades y alcance esperado de cada uno de nuestros clientes.
   stand: S/A
   height1: 30px
   height: 80px
