@@ -142,6 +142,17 @@ companies:
   height: 80px
   column: 1
 
+- siteurl: https://www.grupoinfra.com/
+  logourl: images/companies/infra.png
+  name: Infra
+  carreras: TODAS LAS CARRERAS
+  teaser: Por casi 100 años, Grupo INFRA ha sido parte de la transformación de México. Desde el amanecer hasta que termine el día estamos presentes en millones de historias.
+  abstract: Por casi 100 años, Grupo INFRA ha sido parte de la transformación de México. Desde el amanecer hasta que termine el día estamos presentes en millones de historias. Somos parte esencial del que hacer industrial y desarrollo del sector salud en México, siendo esto nuestra prioridad.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  column: 1
+
 - siteurl: https://www.keyence.com.mx/
   logourl: images/companies/keyence.jpg
   name: KEYENCE
