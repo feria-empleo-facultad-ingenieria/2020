@@ -285,6 +285,17 @@ companies:
   height: 80px
   column: 2
 
+- siteurl: https://www.storicard.com/
+  logourl: images/companies/storicard.jpg
+  name: Storicard
+  carreras: TODAS LAS CARRERAS
+  teaser: Empezando por una tarjeta de crédito impulsamos la inclusión en México dando acceso y aprobando a más gente para ayudarlos a crear una historia financiera personal sólida y exitosa.
+  abstract: Empezando por una tarjeta de crédito impulsamos la inclusión en México dando acceso y aprobando a más gente para ayudarlos a crear una historia financiera personal sólida y exitosa.
+  stand: S/A
+  height1: 40px
+  height: 80px
+  column: 2
+
 - siteurl: http://www.techint-ingenieria.com/es/carreras
   logourl: images/companies/techint.png
   name: Techint
