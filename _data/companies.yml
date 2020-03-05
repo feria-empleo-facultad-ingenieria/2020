@@ -43,6 +43,17 @@ companies:
   height: 80px
   column: 1
 
+- siteurl: https://careers.bbva.com/mexico/
+  logourl: images/companies/bbva.png
+  name: BBVA
+  carreras: TODAS LAS CARRERAS
+  teaser: Working with BBVA means developing your career at one of the most innovative companies in the financial sector
+  abstract: Working with BBVA means developing your career at one of the most innovative companies in the financial sector
+  stand: S/A
+  height1: 20px
+  height: 80px
+  column: 1
+
 - siteurl: http://www.ciadetalentos.com.mx/
   logourl: images/companies/cia2.jpg
   name: Cia de Talentos
