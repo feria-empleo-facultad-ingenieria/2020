@@ -253,13 +253,13 @@ companies:
   column: 2
  
 - siteurl: http://canalempleo.sacyr.com/
-  logourl: images/companies/sacyr2.jpg
+  logourl: images/companies/sacyr.png
   name: Sacyr
   carreras: TODAS LAS CARRERAS
   teaser: En Sacyr somos una Grupo global, con una fuerte vocación internacional e importantes y
   abstract: En Sacyr somos una Grupo global, con una fuerte vocación internacional e importantes y ambiciosos objetivos. Actualmente llevamos a cabo proyectos innovadores de alto valor en 28 países en los 5 continentes y buscamos continuamente nuevas posibilidades de crecimiento fuera de nuestras fronteras. Trabajamos con un espíritu global en el que la multiculturalidad nos enriquece y creemos que no hay fronteras para el talento.
   stand: S/A
-  height1: 25px
+  height1: 40px
   height: 80px
   column: 2
  
