@@ -8,6 +8,8 @@ companies:
   stand: S/A
   height1: 25px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:50px;
   column: 1
 
 - siteurl: https://www.aspentech.com/en/careers
@@ -19,6 +21,8 @@ companies:
   stand: S/A
   height1: 30px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:50px;
   column: 1
 
 - siteurl: http://www.audi.com.mx/carreras
@@ -30,6 +34,8 @@ companies:
   stand: S/A
   height1: 30px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 1
 
 - siteurl: https://www.banamex.com/gentebanamex/
@@ -41,6 +47,8 @@ companies:
   stand: S/A
   height1: 40px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 1
 
 - siteurl: https://careers.bbva.com/mexico/
@@ -52,6 +60,8 @@ companies:
   stand: S/A
   height1: 20px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:40px;
   column: 1
 
 - siteurl: http://www.ciadetalentos.com.mx/
@@ -63,6 +73,8 @@ companies:
   stand: S/A
   height1: 40px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 1
   
 #- siteurl: https://jobs2.deloitte.com/mx/es?icid=top_job-search&amp;id=mx
@@ -96,6 +108,8 @@ companies:
   stand: S/A
   height1: 30px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 1
 
 - siteurl: https://www.gm.com.mx/corporativo/empleo_gm/
@@ -106,7 +120,9 @@ companies:
   abstract: Conoce nuestras áreas de desarrollo y encuentra información acerca de nuestro proceso de selección. Aquí podrás registrarte y aplicar a las oportunidades de empleo disponibles.
   stand: S/A
   height1: 10px
-  height: 40px
+  height: 20px
+  heightstands: 15px
+  heightcompany: height:30px;
   column: 1
 
 - siteurl: http://www.bocar.com.mx/es/reclutamiento
@@ -118,6 +134,8 @@ companies:
   stand: S/A
   height1: 30px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 1
 
 - siteurl: http://www.henkel.mx/index.htm
@@ -129,6 +147,8 @@ companies:
   stand: S/A
   height1: 40px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 1
 
 - siteurl: http://career.huawei.com/reccampportal/#campus4/content.html
@@ -140,6 +160,8 @@ companies:
   stand: S/A
   height1: 20px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:50px;
   column: 1
 
 - siteurl: https://www.ica.com.mx/ica-fluor
@@ -151,6 +173,8 @@ companies:
   stand: S/A
   height1: 40px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 1
 
 - siteurl: https://www.grupoinfra.com/
@@ -162,6 +186,8 @@ companies:
   stand: S/A
   height1: 40px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 1
 
 - siteurl: https://www.keyence.com.mx/
@@ -173,6 +199,8 @@ companies:
   stand: S/A
   height1: 25px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:40px;
   column: 1
 
 - siteurl: https://kionetworks.com
@@ -184,6 +212,8 @@ companies:
   stand: S/A
   height1: 40px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 1
 
 - siteurl: https://home.kpmg/mx/es/home/carrera.html
@@ -195,6 +225,8 @@ companies:
   stand: S/A
   height1: 25px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:40px;
   column: 1
  
 - siteurl: https://www.netcracker.com/careers/
@@ -206,6 +238,8 @@ companies:
   stand: S/A
   height1: 25px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:40px;
   column: 2
 
 - siteurl: https://www.omnitracs.com/company/careers
@@ -217,6 +251,8 @@ companies:
   stand: S/A
   height1: 30px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:40px;
   column: 2
 
 - siteurl: https://www.oracle.com/corporate/careers/
@@ -228,6 +264,8 @@ companies:
   stand: S/A
   height1: 40px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 2
  
 - siteurl: http://www.probecarios.com/v2/
@@ -239,6 +277,8 @@ companies:
   stand: S/A
   height1: 40px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 2
  
 - siteurl: http://www.pg.com/es_LATAM/MX/
@@ -250,6 +290,8 @@ companies:
   stand: S/A
   height1: 25px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 2
  
 - siteurl: http://canalempleo.sacyr.com/
@@ -261,6 +303,8 @@ companies:
   stand: S/A
   height1: 40px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 2
  
 - siteurl: https://www.saipem.com/en/careers
@@ -272,6 +316,8 @@ companies:
   stand: S/A
   height1: 25px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 2
 
 - siteurl: https://careers.slb.com/
@@ -283,6 +329,8 @@ companies:
   stand: S/A
   height1: 40px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 2
  
 - siteurl: https://sferea.com/index.html
@@ -294,6 +342,8 @@ companies:
   stand: S/A
   height1: 40px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 2
 
 - siteurl: https://www.storicard.com/
@@ -305,6 +355,8 @@ companies:
   stand: S/A
   height1: 40px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 2
 
 - siteurl: http://www.techint-ingenieria.com/es/carreras
@@ -316,6 +368,8 @@ companies:
   stand: S/A
   height1: 20px
   height: 50px
+  heightstands: 40px
+  heightcompany: height:40px;
   column: 2
 
 - siteurl: https://www.vitalmex.com.mx/vacantes/
@@ -327,6 +381,8 @@ companies:
   stand: S/A
   height1: 30px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 2
   
 - siteurl: http://www.walmartmexico.com.mx/bolsa-de-trabajo-mex-cam.html
@@ -338,6 +394,8 @@ companies:
   stand: S/A
   height1: 20px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:40px;
   column: 2
  
 - siteurl: http://www.xideral.co/positions
@@ -349,6 +407,8 @@ companies:
   stand: S/A
   height1: 30px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 2
 
 - siteurl: http://www.zuma-ti.com.mx/es/
@@ -360,6 +420,8 @@ companies:
   stand: S/A
   height1: 40px
   height: 80px
+  heightstands: 40px
+  heightcompany: height:60px;
   column: 2
 
 #- siteurl: https://www.zte.com.cn/global/
