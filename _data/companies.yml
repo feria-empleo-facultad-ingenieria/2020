@@ -47,7 +47,7 @@ companies:
   stand: S/A
   height1: 20px
   height: 80px
-  heightstands: 40px
+  heightstands: 30px
   heightcompany: height:40px;
   column: 1
 
@@ -58,7 +58,7 @@ companies:
   teaser: En Grupo Bocar sentirás que tu trabajo trasciende.
   abstract: En Grupo Bocar sentirás que tu trabajo trasciende. Aquí tendrás la oportunidad de aplicar tus conocimientos y adquirir nuevas habilidades, trabajando con tecnología de punta en un ambiente seguro y socialmente responsable.
   stand: S/A
-  height1: 30px
+  height1: 25px
   height: 80px
   heightstands: 40px
   heightcompany: height:60px;
@@ -84,11 +84,25 @@ companies:
   teaser: Nuestra prioridad es promover el acceso en igualdad
   abstract: Nuestra prioridad es promover el acceso en igualdad de términos para ambos géneros al empleo y crecimiento profesional en la empresa, así como a la capacitación y participación en los procesos de toma de decisiones.
   stand: S/A
-  height1: 40px
+  height1: 30px
   height: 80px
   heightstands: 40px
   heightcompany: height:60px;
   column: 1
+
+- siteurl: https://cryoinfra.hiringroom.com/jobs/
+  logourl: images/companies/cryoinfra.png
+  name: CryoInfra
+  carreras: TODAS LAS CARRERAS
+  teaser: Por casi 100 años, Grupo INFRA ha sido parte de la transformación de México. Desde el amanecer hasta que termine el día estamos presentes en millones de historias.
+  abstract: Por casi 100 años, Grupo INFRA ha sido parte de la transformación de México. Desde el amanecer hasta que termine el día estamos presentes en millones de historias. Somos parte esencial del que hacer industrial y desarrollo del sector salud en México, siendo esto nuestra prioridad.
+  stand: S/A
+  height1: 22px
+  height: 80px
+  heightstands: 30px
+  heightcompany: height:50px;
+  column: 1
+  
 
 #- siteurl: https://jobs2.deloitte.com/mx/es?icid=top_job-search&amp;id=mx
 #  logourl: images/companies/deloitte.jpg
@@ -145,7 +159,7 @@ companies:
   teaser: El pensamiento emprendedor es parte de nuestra identidad. Únete a nuestros equipos
   abstract: El pensamiento emprendedor es parte de nuestra identidad. Únete a nuestros equipos diversos y globales y comienza cada día convirtiendo tus ideas en realidad. Puedes elegir entre innumerables oportunidades y desarrollar tu carrera al mismo tiempo que das forma activamente a las marcas y tecnologías de Henkel.
   stand: S/A
-  height1: 40px
+  height1: 30px
   height: 80px
   heightstands: 40px
   heightcompany: height:60px;
@@ -171,7 +185,7 @@ companies:
   teaser: ICA-Fluor Daniel, S. de R.L. de C.V. (ICA Fluor) es una empresa conjunta formada por el grupo mexicano de construcción e ingeniería ICA
   abstract: ICA-Fluor Daniel, S. de R.L. de C.V. (ICA Fluor) es una empresa conjunta formada por el grupo mexicano de construcción e ingeniería ICA y la firma estadounidense de ingeniería, procura, construcción y mantenimiento Fluor Corp. Sus áreas de operación incluyen vías terrestres, puertos y obras marítimas, aeropuertos, agua, energía, obras subterráneas, transporte masivo, edificación social, industria, petróleo y gas, minería, desarrollo inmobiliario y prefabricación. 
   stand: S/A
-  height1: 40px
+  height1: 30px
   height: 80px
   heightstands: 40px
   heightcompany: height:60px;
@@ -184,9 +198,9 @@ companies:
   teaser: Por casi 100 años, Grupo INFRA ha sido parte de la transformación de México. Desde el amanecer hasta que termine el día estamos presentes en millones de historias.
   abstract: Por casi 100 años, Grupo INFRA ha sido parte de la transformación de México. Desde el amanecer hasta que termine el día estamos presentes en millones de historias. Somos parte esencial del que hacer industrial y desarrollo del sector salud en México, siendo esto nuestra prioridad.
   stand: S/A
-  height1: 40px
+  height1: 25px
   height: 80px
-  heightstands: 40px
+  heightstands: 30px
   heightcompany: height:50px;
   column: 1
 
@@ -197,7 +211,7 @@ companies:
   teaser: KEYENCE ha crecido de forma constante desde el año 1974 para convertirse en un líder innovador en el desarrollo y fabricación de equipos de automatización industrial e inspección.
   abstract: KEYENCE ha crecido de forma constante desde el año 1974 para convertirse en un líder innovador en el desarrollo y fabricación de equipos de automatización industrial e inspección, a nivel mundial. Nuestros productos consisten en lectores de códigos, marcadores láser, sistemas de visión artificial, sistemas de medición, microscopios, sensores y eliminadores de estática.
   stand: S/A
-  height1: 25px
+  height1: 20px
   height: 80px
   heightstands: 40px
   heightcompany: height:40px;
@@ -236,7 +250,7 @@ companies:
   teaser: Netcracker is a forward-looking, software technology company providing mission-critical solutions to communication service providers around the globe.
   abstract: Netcracker is a forward-looking, software technology company providing mission-critical solutions to communication service providers around the globe. Every year since our founding in 1993, we have demonstrated significant growth, strong profitability, and highly credible thought leadership. 
   stand: S/A
-  height1: 25px
+  height1: 20px
   height: 80px
   heightstands: 40px
   heightcompany: height:40px;
@@ -249,7 +263,7 @@ companies:
   teaser: At Omnitracs, we’re committed to not simply following the path ahead but creating a new one. 
   abstract: At Omnitracs, we’re committed to not simply following the path ahead but creating a new one. And we’re looking for innovators with the drive and sense of direction it takes to transform an entire industry to join us on our journey.
   stand: S/A
-  height1: 30px
+  height1: 20px
   height: 80px
   heightstands: 40px
   heightcompany: height:40px;
@@ -366,7 +380,7 @@ companies:
   teaser: Techint Ingeniería y Construcción lo invita a participar de una compañía 
   abstract: Techint Ingeniería y Construcción lo invita a participar de una compañía en donde cada proyecto es una oportunidad única para crecer y adquirir nuevas experiencias.
   stand: S/A
-  height1: 20px
+  height1: 16px
   height: 50px
   heightstands: 40px
   heightcompany: height:40px;
@@ -392,7 +406,7 @@ companies:
   teaser: ¿Qué vas a encontrar cuando te unas a la mayor cadena minorista del mundo?
   abstract: Amamos lo que hacemos. ¿Qué vas a encontrar cuando te unas a la mayor cadena minorista del mundo? La oportunidad de impactar en la comunidad que vives y en la que trabajas, innovar para la próxima generación de clientes y construir una carrera haciendo lo que amas.
   stand: S/A
-  height1: 20px
+  height1: 16px
   height: 80px
   heightstands: 40px
   heightcompany: height:40px;
