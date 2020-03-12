@@ -25,18 +25,18 @@ companies:
   heightcompany: height:50px;
   column: 1
 
-- siteurl: http://www.audi.com.mx/carreras
-  logourl: images/companies/audi.png
-  name: Audi
-  carreras: TODAS LAS CARRERAS
-  teaser: Audi offers you a modern work environment with many additional
-  abstract: Audi offers you a modern work environment with many additional, personalized benefits, training and development options, health programs, as well as a support for your personal life and career. We incentivize young people and experienced professionals alike to contribute with their knowledge and skills in a targeted manner. Whether you are looking to start your professional journey, attend a dual university or take the next career step, Audi is a powerful partner, who gives you the flexibility you need for your personal growth.
-  stand: S/A
-  height1: 30px
-  height: 80px
-  heightstands: 40px
-  heightcompany: height:60px;
-  column: 1
+#- siteurl: http://www.audi.com.mx/carreras
+#  logourl: images/companies/audi.png
+#  name: Audi
+#  carreras: TODAS LAS CARRERAS
+#  teaser: Audi offers you a modern work environment with many additional
+#  abstract: Audi offers you a modern work environment with many additional, personalized benefits, training and development options, health programs, as well as a support for your personal life and career. We incentivize young people and experienced professionals alike to contribute with their knowledge and skills in a targeted manner. Whether you are looking to start your professional journey, attend a dual university or take the next career step, Audi is a powerful partner, who gives you the flexibility you need for your personal growth.
+#  stand: S/A
+#  height1: 30px
+#  height: 80px
+#  heightstands: 40px
+#  heightcompany: height:60px;
+#  column: 1
 
 - siteurl: https://careers.bbva.com/mexico/
   logourl: images/companies/bbva.png
