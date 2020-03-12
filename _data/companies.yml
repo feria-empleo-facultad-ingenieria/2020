@@ -242,7 +242,20 @@ companies:
   heightstands: 40px
   heightcompany: height:40px;
   column: 1
- 
+
+- siteurl: https://www.managementsolutions.com/es/carreras-profesionales/envia-tu-cv
+  logourl: images/companies/managementsolutions.png
+  name: Management Solutions
+  carreras: TODAS LAS CARRERAS
+  teaser: Incorporarte a una firma que te ofrece todo lo necesario para tu máximo desarrollo profesional, trabajando en ...
+  abstract: Incorporarte a una firma que te ofrece todo lo necesario para tu máximo desarrollo profesional, trabajando en los proyectos de consultoría más relevantes del sector, para las mayores compañías multinacionales, líderes en sus respectivos mercados, junto al top management empresarial, ante sus retos nacionales e internacionales, y con un extraordinario equipo de profesionales, cuyos valores y cultura corporativa son una referencia en el sector.
+  stand: S/A
+  height1: 45px
+  height: 80px
+  heightstands: 60px
+  heightcompany: height:70px;
+  column: 1
+
 - siteurl: https://www.netcracker.com/careers/
   logourl: images/companies/netcracker.png
   name: Netcracker
